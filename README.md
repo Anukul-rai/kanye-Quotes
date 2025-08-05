@@ -24,12 +24,3 @@ A simple and elegant **React Native app** built with **Expo** that fetches and d
 
 ---
 
-## 🧑‍💻 Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/Anukul-rai/kanye-Quotes.git
-cd kanye-Quotes
-npm install
-npx expo start
